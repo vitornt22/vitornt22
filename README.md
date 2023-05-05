@@ -51,5 +51,8 @@
 # 
 
 
+![Snake animation](https://github.com/vitornt22/vitornt22/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
