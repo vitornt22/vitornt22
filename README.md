@@ -3,7 +3,7 @@
 
 ## Sobre mim ℹ️
 
-- 🎓 Bacharel em Sistemas de Informação- UFPI
+- 🎓 Bacharel em Sistemas de Informação- [UFPI](https://ufpi.br/)
 - 💻 Estagiário em desenvolvimento Web na [Retake Brasil](https://www.retake.com.br/)
 - 📱 Dev Web/Mobile Freelancer nas poucas horas vagas
 - 📚 Estudante em contínuo Aprendizado
