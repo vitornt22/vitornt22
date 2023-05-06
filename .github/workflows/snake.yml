@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate S
 
 on:
   schedule: # execute every 12 hours
@@ -9,7 +9,7 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    steps:https://github.com/vitornt22/vitornt22
+    steps:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
