@@ -25,9 +25,15 @@
 
 
 ## Estatisticas 📊
+<br>
+<div align="center">
+  <a href="https://github.com/vitornt22">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitornt22&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornt22&theme=tokyonight&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+<br>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitornt22&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitornt22&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)| 
-|---|---|
 
 
 
