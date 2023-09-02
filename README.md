@@ -4,8 +4,10 @@
 ## Sobre mim ℹ️
 
 - 🎓 Bacharel em Sistemas de Informação- [UFPI](https://ufpi.br/)
-- 📱 Dev Web/Mobile Freelancer 
+- 📱 Dev Web/Mobile FullStack 
 - 📚 Estudante em contínuo Aprendizado
+- 📚 Professor Mediador T.I
+- 📚 Pós Graduando em Desenvolvimento em Aplicações Web
 
 #
 
