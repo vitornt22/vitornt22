@@ -28,6 +28,8 @@
     <img style="margin-top: 5px;" align="center" alt="hmtl5" src="https://img.shields.io/badge/React-0175C2?style=for-the-badge&logo=react&logoColor=white">
     <img style="margin-top: 5px;" align="center" alt="hmtl5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img style="margin-top: 5px;" align="center" alt="hmtl5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img style="margin-top: 5px;"align="center" alt="hmtl5" src="https://img.shields.io/badge/Selenium-3776AB?style=for-the-badge&logo=selenium&logoColor=white">
+
     
      
 </div> <br>
