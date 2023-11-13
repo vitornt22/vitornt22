@@ -8,6 +8,7 @@
 - 📚 Estudante em contínuo Aprendizado
 - 📚 Professor Mediador T.I
 - 📚 Pós Graduando em Desenvolvimento em Aplicações Web
+- 📚 Estagiário em Desenvolvimento Web/Mobile- Front End
 
 #
 
