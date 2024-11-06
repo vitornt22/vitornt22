@@ -6,10 +6,10 @@
 - 🎓 Bacharel em Sistemas de Informação- [UFPI](https://ufpi.br/)
 - 📱 Dev Web/Mobile FullStack 
 - 📚 Estudante em contínuo Aprendizado
-- 📚 Professor Mediador T.I
-- 📚 Pós Graduando em Desenvolvimento em Aplicações Web
-
-#
+- 📚 Professor Médio Técnico T.I
+- 📚 Pós Graduado em Desenvolvimento em Aplicações Web
+- 📚 Pós Graduando em Desenvolvimento em Aplicações mobile
+- 📚 Pós Graduando em Docência do Ensino Superior e tecnológico
 
 
 
