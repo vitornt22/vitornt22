@@ -9,7 +9,9 @@
 - 📚 Professor Médio Técnico T.I
 - 📚 Pós Graduado em Desenvolvimento em Aplicações Web
 - 📚 Pós Graduando em Desenvolvimento em Aplicações mobile
-- 📚 Pós Graduando em Docência do Ensino Superior e tecnológico
+- 📚 Pós Graduado em Docência do Ensino Superior e tecnológico
+- 🇵🇹 Intercâmbista em Tecnologia - LISBOA 2025
+- Intercâmbista em Tecnologia - BERLIM 2026 
 
 
 
